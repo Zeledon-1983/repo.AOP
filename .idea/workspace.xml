@@ -11,18 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd134837-917a-4221-bb5f-82c9951e4879" name="Default Changelist" comment="primer commit">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SocialED.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hola mundo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/produ/server.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/produ/static/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/produ/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/produ/static/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/produ/static/signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +66,7 @@
       <workItem from="1589541935239" duration="35595000" />
       <workItem from="1589647767630" duration="794000" />
       <workItem from="1589648577035" duration="438000" />
+      <workItem from="1589649021676" duration="412000" />
     </task>
     <task id="LOCAL-00001" summary="primer commit">
       <created>1589648239659</created>
@@ -85,7 +75,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589648239659</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="primer commit">
+      <created>1589649049594</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589649049594</updated>
+    </task>
+    <task id="LOCAL-00003" summary="primer commit">
+      <created>1589649071441</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589649071441</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,10 +116,10 @@
       <screen x="0" y="0" width="1280" height="690" />
     </state>
     <state x="268" y="24" key="#Inspections/0.0.1280.690@0.0.1280.690" timestamp="1589531223090" />
-    <state x="726" y="219" key="#Notifications" timestamp="1589648475127">
+    <state x="726" y="219" key="#Notifications" timestamp="1589649436516">
       <screen x="0" y="0" width="1280" height="690" />
     </state>
-    <state x="726" y="219" key="#Notifications/0.0.1280.690@0.0.1280.690" timestamp="1589648475127" />
+    <state x="726" y="219" key="#Notifications/0.0.1280.690@0.0.1280.690" timestamp="1589649436516" />
     <state x="194" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589542584292">
       <screen x="0" y="0" width="1280" height="690" />
     </state>
@@ -148,10 +152,10 @@
       <screen x="0" y="0" width="1280" height="690" />
     </state>
     <state x="301" y="0" key="SettingsEditor/0.0.1280.690@0.0.1280.690" timestamp="1589542109934" />
-    <state x="598" y="157" width="629" height="533" key="Vcs.Push.Dialog.v2" timestamp="1589648332550">
+    <state x="598" y="157" width="629" height="533" key="Vcs.Push.Dialog.v2" timestamp="1589649080029">
       <screen x="0" y="0" width="1280" height="690" />
     </state>
-    <state x="598" y="157" width="629" height="533" key="Vcs.Push.Dialog.v2/0.0.1280.690@0.0.1280.690" timestamp="1589648332550" />
+    <state x="598" y="157" width="629" height="533" key="Vcs.Push.Dialog.v2/0.0.1280.690@0.0.1280.690" timestamp="1589649080029" />
     <state x="773" y="268" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589541976537">
       <screen x="0" y="0" width="1280" height="690" />
     </state>
