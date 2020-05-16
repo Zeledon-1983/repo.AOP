@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd134837-917a-4221-bb5f-82c9951e4879" name="Default Changelist" comment="primer commit" />
+    <list default="true" id="dd134837-917a-4221-bb5f-82c9951e4879" name="Default Changelist" comment="primer commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/produ/static/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/produ/static/home.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +49,43 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
+  <component name="RunManager" selected="JavaScript Debug.home.html">
+    <configuration name="home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SocialED/produ/static/home.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SocialED" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\web\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/produ" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/produ/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.server" />
+      <item itemvalue="JavaScript Debug.home.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.home.html" />
+        <item itemvalue="Python.server" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -64,7 +104,7 @@
       <workItem from="1589541935239" duration="35595000" />
       <workItem from="1589647767630" duration="794000" />
       <workItem from="1589648577035" duration="438000" />
-      <workItem from="1589649021676" duration="591000" />
+      <workItem from="1589649021676" duration="2509000" />
     </task>
     <task id="LOCAL-00001" summary="primer commit">
       <created>1589648239659</created>
@@ -94,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589649481763</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="primer commit">
+      <created>1589649632453</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589649632454</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,42 +172,46 @@
       <screen x="0" y="0" width="1280" height="690" />
     </state>
     <state x="726" y="219" key="#Notifications/0.0.1280.690@0.0.1280.690" timestamp="1589649616385" />
-    <state x="194" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589542584292">
+    <state x="194" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589650354099">
       <screen x="0" y="0" width="1280" height="690" />
     </state>
-    <state x="194" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.690@0.0.1280.690" timestamp="1589542584292" />
+    <state x="194" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.690@0.0.1280.690" timestamp="1589650354099" />
+    <state x="656" y="0" key="#server" timestamp="1589650227986">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="656" y="0" key="#server/0.0.1280.690@0.0.1280.690" timestamp="1589650227986" />
     <state x="756" y="50" key="FileChooserDialogImpl" timestamp="1589648980383">
       <screen x="0" y="0" width="1280" height="690" />
     </state>
     <state x="756" y="50" key="FileChooserDialogImpl/0.0.1280.690@0.0.1280.690" timestamp="1589648980383" />
-    <state width="727" height="166" key="GridCell.Tab.0.bottom" timestamp="1589540293533">
+    <state width="681" height="157" key="GridCell.Tab.0.bottom" timestamp="1589650915002">
       <screen x="0" y="0" width="1280" height="690" />
     </state>
-    <state width="727" height="166" key="GridCell.Tab.0.bottom/0.0.1280.690@0.0.1280.690" timestamp="1589540293533" />
-    <state width="727" height="166" key="GridCell.Tab.0.center" timestamp="1589540293533">
+    <state width="681" height="157" key="GridCell.Tab.0.bottom/0.0.1280.690@0.0.1280.690" timestamp="1589650915002" />
+    <state width="681" height="157" key="GridCell.Tab.0.center" timestamp="1589650915002">
       <screen x="0" y="0" width="1280" height="690" />
     </state>
-    <state width="727" height="166" key="GridCell.Tab.0.center/0.0.1280.690@0.0.1280.690" timestamp="1589540293533" />
-    <state width="727" height="166" key="GridCell.Tab.0.left" timestamp="1589540293533">
+    <state width="681" height="157" key="GridCell.Tab.0.center/0.0.1280.690@0.0.1280.690" timestamp="1589650915002" />
+    <state width="681" height="157" key="GridCell.Tab.0.left" timestamp="1589650915002">
       <screen x="0" y="0" width="1280" height="690" />
     </state>
-    <state width="727" height="166" key="GridCell.Tab.0.left/0.0.1280.690@0.0.1280.690" timestamp="1589540293533" />
-    <state width="727" height="166" key="GridCell.Tab.0.right" timestamp="1589540293533">
+    <state width="681" height="157" key="GridCell.Tab.0.left/0.0.1280.690@0.0.1280.690" timestamp="1589650915002" />
+    <state width="681" height="157" key="GridCell.Tab.0.right" timestamp="1589650915002">
       <screen x="0" y="0" width="1280" height="690" />
     </state>
-    <state width="727" height="166" key="GridCell.Tab.0.right/0.0.1280.690@0.0.1280.690" timestamp="1589540293533" />
-    <state x="594" y="72" key="RollbackChangesDialog" timestamp="1589648905042">
+    <state width="681" height="157" key="GridCell.Tab.0.right/0.0.1280.690@0.0.1280.690" timestamp="1589650915002" />
+    <state x="594" y="72" key="RollbackChangesDialog" timestamp="1589650327200">
       <screen x="0" y="0" width="1280" height="690" />
     </state>
-    <state x="594" y="72" key="RollbackChangesDialog/0.0.1280.690@0.0.1280.690" timestamp="1589648905042" />
+    <state x="594" y="72" key="RollbackChangesDialog/0.0.1280.690@0.0.1280.690" timestamp="1589650327200" />
     <state x="301" y="0" key="SettingsEditor" timestamp="1589542109934">
       <screen x="0" y="0" width="1280" height="690" />
     </state>
     <state x="301" y="0" key="SettingsEditor/0.0.1280.690@0.0.1280.690" timestamp="1589542109934" />
-    <state x="598" y="157" width="629" height="533" key="Vcs.Push.Dialog.v2" timestamp="1589649508680">
+    <state x="598" y="157" width="629" height="533" key="Vcs.Push.Dialog.v2" timestamp="1589649642774">
       <screen x="0" y="0" width="1280" height="690" />
     </state>
-    <state x="598" y="157" width="629" height="533" key="Vcs.Push.Dialog.v2/0.0.1280.690@0.0.1280.690" timestamp="1589649508680" />
+    <state x="598" y="157" width="629" height="533" key="Vcs.Push.Dialog.v2/0.0.1280.690@0.0.1280.690" timestamp="1589649642774" />
     <state x="773" y="268" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589541976537">
       <screen x="0" y="0" width="1280" height="690" />
     </state>
@@ -168,5 +219,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SocialED$Hola_mundo.coverage" NAME="Hola mundo Coverage Results" MODIFIED="1589540185437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SocialED$server.coverage" NAME="server Coverage Results" MODIFIED="1589650363260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/produ" />
   </component>
 </project>
