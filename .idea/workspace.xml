@@ -10,10 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd134837-917a-4221-bb5f-82c9951e4879" name="Default Changelist" comment="primer commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/produ/static/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/produ/static/home.html" afterDir="false" />
-    </list>
+    <list default="true" id="dd134837-917a-4221-bb5f-82c9951e4879" name="Default Changelist" comment="primer commit&#10;segundo commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +101,7 @@
       <workItem from="1589541935239" duration="35595000" />
       <workItem from="1589647767630" duration="794000" />
       <workItem from="1589648577035" duration="438000" />
-      <workItem from="1589649021676" duration="2509000" />
+      <workItem from="1589649021676" duration="2833000" />
     </task>
     <task id="LOCAL-00001" summary="primer commit">
       <created>1589648239659</created>
@@ -141,7 +138,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589649632454</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="primer commit&#10;segundo commit">
+      <created>1589651897492</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589651897492</updated>
+    </task>
+    <task id="LOCAL-00007" summary="primer commit&#10;segundo commit">
+      <created>1589652077496</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1589652077496</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,7 +172,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primer commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="primer commit" />
+    <MESSAGE value="primer commit&#10;segundo commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="primer commit&#10;segundo commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="268" y="24" key="#Inspections" timestamp="1589531223090">
@@ -208,10 +220,10 @@
       <screen x="0" y="0" width="1280" height="690" />
     </state>
     <state x="301" y="0" key="SettingsEditor/0.0.1280.690@0.0.1280.690" timestamp="1589542109934" />
-    <state x="598" y="157" width="629" height="533" key="Vcs.Push.Dialog.v2" timestamp="1589649642774">
+    <state x="598" y="157" width="629" height="533" key="Vcs.Push.Dialog.v2" timestamp="1589652106886">
       <screen x="0" y="0" width="1280" height="690" />
     </state>
-    <state x="598" y="157" width="629" height="533" key="Vcs.Push.Dialog.v2/0.0.1280.690@0.0.1280.690" timestamp="1589649642774" />
+    <state x="598" y="157" width="629" height="533" key="Vcs.Push.Dialog.v2/0.0.1280.690@0.0.1280.690" timestamp="1589652106886" />
     <state x="773" y="268" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589541976537">
       <screen x="0" y="0" width="1280" height="690" />
     </state>
