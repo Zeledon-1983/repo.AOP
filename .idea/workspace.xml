@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd134837-917a-4221-bb5f-82c9951e4879" name="Default Changelist" comment="primer commit&#10;segundo commit" />
+    <list default="true" id="dd134837-917a-4221-bb5f-82c9951e4879" name="Default Changelist" comment="primer commit&#10;segundo commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/produ/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/produ/static/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +54,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
-  <component name="RunManager" selected="JavaScript Debug.home.html">
+  <component name="RunManager" selected="Python.server">
     <configuration name="home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/SocialED/produ/static/home.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -106,7 +109,7 @@
       <workItem from="1589541935239" duration="35595000" />
       <workItem from="1589647767630" duration="794000" />
       <workItem from="1589648577035" duration="438000" />
-      <workItem from="1589649021676" duration="3520000" />
+      <workItem from="1589649021676" duration="4562000" />
     </task>
     <task id="LOCAL-00001" summary="primer commit">
       <created>1589648239659</created>
@@ -164,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589652932585</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="primer commit&#10;segundo commit">
+      <created>1589653286666</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1589653286666</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,10 +206,10 @@
       <screen x="0" y="0" width="1280" height="690" />
     </state>
     <state x="726" y="219" key="#Notifications/0.0.1280.690@0.0.1280.690" timestamp="1589649616385" />
-    <state x="194" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589650354099">
+    <state x="194" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589653324744">
       <screen x="0" y="0" width="1280" height="690" />
     </state>
-    <state x="194" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.690@0.0.1280.690" timestamp="1589650354099" />
+    <state x="194" y="1" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.690@0.0.1280.690" timestamp="1589653324744" />
     <state x="656" y="0" key="#server" timestamp="1589650227986">
       <screen x="0" y="0" width="1280" height="690" />
     </state>
