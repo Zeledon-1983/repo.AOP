@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd134837-917a-4221-bb5f-82c9951e4879" name="Default Changelist" comment="commit" />
+    <list default="true" id="dd134837-917a-4221-bb5f-82c9951e4879" name="Default Changelist" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,13 +80,13 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.server" />
       <item itemvalue="JavaScript Debug.home.html" />
+      <item itemvalue="Python.server" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.home.html" />
         <item itemvalue="Python.server" />
+        <item itemvalue="JavaScript Debug.home.html" />
       </list>
     </recent_temporary>
   </component>
@@ -107,6 +109,7 @@
       <workItem from="1589647767630" duration="794000" />
       <workItem from="1589648577035" duration="438000" />
       <workItem from="1589649021676" duration="6533000" />
+      <workItem from="1589782687596" duration="766000" />
     </task>
     <task id="LOCAL-00001" summary="primer commit">
       <created>1589648239659</created>
@@ -199,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589655408195</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="commit">
+      <created>1589782752969</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1589782752969</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,6 +250,10 @@
       <screen x="0" y="0" width="1280" height="690" />
     </state>
     <state x="656" y="0" key="#server/0.0.1280.690@0.0.1280.690" timestamp="1589650227986" />
+    <state x="244" y="103" key="DiffContextDialog" timestamp="1589782826359">
+      <screen x="0" y="0" width="1280" height="690" />
+    </state>
+    <state x="244" y="103" key="DiffContextDialog/0.0.1280.690@0.0.1280.690" timestamp="1589782826359" />
     <state x="756" y="50" key="FileChooserDialogImpl" timestamp="1589648980383">
       <screen x="0" y="0" width="1280" height="690" />
     </state>
@@ -268,10 +282,10 @@
       <screen x="0" y="0" width="1280" height="690" />
     </state>
     <state x="301" y="0" key="SettingsEditor/0.0.1280.690@0.0.1280.690" timestamp="1589542109934" />
-    <state x="598" y="157" width="629" height="533" key="Vcs.Push.Dialog.v2" timestamp="1589655411498">
+    <state x="598" y="157" width="629" height="533" key="Vcs.Push.Dialog.v2" timestamp="1589782860259">
       <screen x="0" y="0" width="1280" height="690" />
     </state>
-    <state x="598" y="157" width="629" height="533" key="Vcs.Push.Dialog.v2/0.0.1280.690@0.0.1280.690" timestamp="1589655411498" />
+    <state x="598" y="157" width="629" height="533" key="Vcs.Push.Dialog.v2/0.0.1280.690@0.0.1280.690" timestamp="1589782860259" />
     <state x="773" y="268" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589541976537">
       <screen x="0" y="0" width="1280" height="690" />
     </state>
@@ -279,6 +293,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/SocialED$Hola_mundo.coverage" NAME="Hola mundo Coverage Results" MODIFIED="1589540185437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/SocialED$server.coverage" NAME="server Coverage Results" MODIFIED="1589650363260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/produ" />
+    <SUITE FILE_PATH="coverage/SocialED$server.coverage" NAME="server Coverage Results" MODIFIED="1589782704825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/produ" />
   </component>
 </project>
